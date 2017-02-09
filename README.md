@@ -1,10 +1,6 @@
-Instructions : Make any necessary assumption, and clearly state the assumptions made.
-
-Expectations : Write the compiling code using your choice of IDE.
 
 Problem Statement :-
-
-Problem : Implement a standalone flight search engine that lists matching flights for a traveler who is looking to fly between 2 locations on a given date. The input locations should be in 3-letter location code format as present in the airlines flight data.
+Implement a standalone flight search engine that lists matching flights for a traveler who is looking to fly between 2 locations on a given date. The input locations should be in 3-letter location code format as present in the airlines flight data.
 
 Specifications :
 
@@ -22,7 +18,7 @@ You are given 3 CSV files, each containing the available flights data for Britis
 
 6) FLIGHT_DURN - Flight duration (HH.mm) from departure location to the arrival location.
 
-FARE - This is the fare of the flight per person in $ (US Dollars).
+7) FARE - This is the fare of the flight per person in $ (US Dollars).
 
 Assumptions and Constraints :
 
